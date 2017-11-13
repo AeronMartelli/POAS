@@ -1,11 +1,10 @@
-# POAS
-First-Draft;​ ​National​ ​Cryptocurrencies​ ​issued​ ​by​ ​legitimate​ ​authority through​ ​proof-of-authoritative-state​ ​consensus​ ​(​ ​POAS​ ​). 
+#First-Draft;​ ​National​ ​Cryptocurrencies​ ​issued​ ​by​ ​legitimate​ ​authority through​ ​proof-of-authoritative-state​ ​consensus​ #​(​ ​POAS​ ​). 
 
-# 1.​ ​Introduction
+## 1.​ ​Introduction
 
 Apart from issues addressed in scalability, Bitcoin faces significant resistance for mass adoption as a national currency of a country. High volatility, centralization risk, and the government’s preference to exercise control over currency build barriers for Bitcoin to replace existing alternatives. Cryptocurrency advantages are sound and difficult to ignore. Although, presence of skepticism in Bitcoin adoption, national cryptocurrency initiatives under supervised control are inevitable. A supervised setting, similar​ ​to​ ​the​ ​Bitcoin​ ​network,​ ​would​ ​replicate​ ​cryptocurrency​ ​at​ ​a​ ​lower​ ​national​ ​scale. We propose a permissioned decentralized network, to ease transition towards mass adoption of national cryptocurrency based on proof-of-authoritative-state consensus.
 
-# 2.​ ​​ ​​Proof-of-Authoritative-State​ ​Consensus​ ​(​ ​POAS​ ​)
+## 2.​ ​​ ​​Proof-of-Authoritative-State​ ​Consensus​ ​(​ ​POAS​ ​)
 
 Proof-of-authoritative-state (POAS) consensus is a slight variation of proof-of-authority consensus. POAS ensures concatenation of blocks to the genesis chain by an authoritative entity. Eligible authoritative entities are mainly the state governments, referred to as an authoritative state. India, one of the largest democracy in the world could be further subdivided into twenty-eight such authoritative states. Each authoritative state holds the responsibility to validate transactions within every new concatenated block and maintain the correctness of the genesis chain. Such a permissioned ledger system operated through authoritative states enable higher scalability,​ ​better​ ​security,​ ​and​ ​a​ ​form​ ​of​ ​decentralization.
 
