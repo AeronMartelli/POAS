@@ -1,4 +1,4 @@
-# First-Draft;​ ​National​ ​Cryptocurrencies​ ​issued​ ​by​ ​legitimate​ ​authority through​ ​proof-of-authoritative-state​ ​consensus​ ​(​ ​POAS​ ​). 
+# First-Draft;​ ​National​ ​Cryptocurrencies​ ​issued​ ​by​ ​legitimate​ ​authority through​ ​proof-of-authoritative-state​ ​consensus​ ​POAS​. 
 
 ## 1.​ ​Introduction
 
